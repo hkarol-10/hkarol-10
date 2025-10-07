@@ -14,7 +14,7 @@ CI/CD: <img src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?&style=f
 
 Containers & Orchestration: <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=blue" height="20"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Helm-0F1689.svg?&style=for-the-badge&logo=helm&logoColor=white" height="20"/>
  
-Monitoring & Logging: <img src="https://img.shields.io/badge/ELK-FDD835.svg?&style=for-the-badge&logo=elastic&logoColor=black" height="20"/> <img src="https://img.shields.io/badge/Grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white" height="20"/>
+Monitoring & Logging: <img src="https://img.shields.io/badge/ELK-FDD835.svg?&style=for-the-badge&logo=elastic&logoColor=black" height="20"/> <img src="https://img.shields.io/badge/Grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Prometheus-E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white" height="20"/>
 
 Cloud Providers: <img src="https://img.shields.io/badge/GCP-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Azure-0078D4.svg?&style=for-the-badge&logo=microsoft%20azure&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/OpenShift-E01E36.svg?&style=for-the-badge&logo=openshift&logoColor=white" height="20"/>
 
